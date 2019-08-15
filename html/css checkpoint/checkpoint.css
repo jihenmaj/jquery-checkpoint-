@@ -1,0 +1,91 @@
+*{
+  padding:0;
+  margin:0;
+}
+body{
+  Background-image:
+
+  Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+  Linear-gradient(127deg, black, black 70.71%),
+
+  Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+}
+.lp ul li {
+  display: inline-block;
+  margin:0.5% 5% 1% 5%;   
+  font-size: 2em;
+  font-weight: bold;
+}
+.lp ul li a{
+  color:white;
+  text-decoration: none;
+  
+}
+.lp ul li a:hover{color:red;}
+.lp i {
+  float: left;
+}
+h1{
+color: white;
+display: block; }
+.fc a {
+  color: mediumblue;
+  text-decoration: none;}
+.ligne{background-color: oldlace;width: 100%;height: 2px;}
+.fc a:hover {
+  color: teal;
+  text-decoration: underline;
+}
+.crs {background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);width:100%;height: 500px;
+background-position: center;
+
+}
+ul  {
+  display: block;
+}
+.crs h1 {
+  position: relative;
+  padding-top: 15%;
+  font-size: 100px;
+  text-shadow: 3px 4px 1px rgba(0, 0, 0, 0.72);
+  font-weight: bold;}
+.tsw {
+  padding: auto;
+}
+  .tsw .bb {
+  display: inline-block;
+  margin:auto;
+}
+.tsw .bb img {
+  width:350px;
+  height:300px;
+
+}
+.fdb{
+  font-size: 25px;
+  font-weight: bold;
+color: mintcream;
+font-style: unset;}
+label{color: white;
+font-size: larger;
+display: block;}
+input {width: 500px;height: 20px;}
+select{
+  width: 80px;
+}
+button {color: teal;}
+.tsawr .a {
+  display:inline-block;
+
+}
+.tsawr button{
+  position: relative;
+  top:-100px;
+  display:none;
+}
+.tsawr button a {
+  text-decoration: none;
+  color: black;
+}
